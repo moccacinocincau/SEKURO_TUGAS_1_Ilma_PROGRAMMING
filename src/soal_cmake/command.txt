@@ -1,0 +1,3 @@
+cmake -B bin
+cmake --build bin
+./bin/robot.exe

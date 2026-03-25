@@ -1,0 +1,5 @@
+# ninja log v7
+72	1664	7961194759768274	CMakeFiles/robot.dir/src/robotair.cpp.obj	dfa6ae27a7991517
+5	1670	7961194759096948	CMakeFiles/robot.dir/src/main.cpp.obj	73d3ff15c004b6a2
+40	1679	7961194759432248	CMakeFiles/robot.dir/src/robot.cpp.obj	70c52ab5da3d93e8
+1680	1848	7961194775839424	robot.exe	26529701dccd1523

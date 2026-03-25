@@ -1,0 +1,3 @@
+C:/Users/Yanuar Ilma Noca/SEKURO_TUGAS_1_Ilma_PROGRAMMING/src/soal_cmake/bin/CMakeFiles/robot.dir
+C:/Users/Yanuar Ilma Noca/SEKURO_TUGAS_1_Ilma_PROGRAMMING/src/soal_cmake/bin/CMakeFiles/edit_cache.dir
+C:/Users/Yanuar Ilma Noca/SEKURO_TUGAS_1_Ilma_PROGRAMMING/src/soal_cmake/bin/CMakeFiles/rebuild_cache.dir
